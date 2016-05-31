@@ -1,0 +1,4 @@
+[submodule "ircb"]
+	path = ircb
+	url = git@github.com:slick666/ircb.git
+	branch = docker
